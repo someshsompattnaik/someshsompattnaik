@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somesh Som Pattnaik</h1>
 <h3 align="center">Turning Coffee into Secure Code ☕🔐 | Cybersec | Cybersecurity Analyst | SOC Analyst | CTF Player | Building Secure Systems | Exploring Threats</h3>
+![gif](https://github.com/user-attachments/assets/2c01731f-6f78-44c2-b1b4-bbb46e4bb676)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshsompattnaik&label=Profile%20views&color=0e75b6&style=flat" alt="someshsompattnaik" /> </p>
 
